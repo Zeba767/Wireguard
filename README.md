@@ -3,7 +3,8 @@ Part 1: Launch and Configure the EC2 Instance
 Step 1: Launch an EC2 Instance
 •	Log in to AWS Management Console:
 •	Navigate to the AWS Management Console and log in.
- 
+ ![image](https://github.com/user-attachments/assets/0e4d4933-544b-46a5-bbf6-d1ea48bba167)
+
 •	Launch a New EC2 Instance:
 •	Go to the EC2 dashboard
 •	Click on “Launch Instance.”
@@ -13,6 +14,7 @@ Step 1: Launch an EC2 Instance
 •	Configure Security Group: (Add a rule to allow SSH (port 22) for your IP).
 •	Launch a EC2 instance.
 
+![image](https://github.com/user-attachments/assets/d99bf01c-6e10-4993-af58-1b858940ba78)
 
 
 •	Connect to the instance, copy the ssh key, and open the terminal to connect to the EC2 instance.
